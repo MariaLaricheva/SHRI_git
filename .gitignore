@@ -1,4 +1,4 @@
-*config.js
-*.hacker
+**config.js
+**.hacker
 /secure/
 /secret/
